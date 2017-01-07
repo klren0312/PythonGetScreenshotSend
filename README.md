@@ -1,12 +1,12 @@
 ##Python实现定时截图并发送给指定邮箱
 ###1.截图使用的是PIL，简单
-![](leanote://file/getImage?fileId=58403b4dbbb8c526cb000002)
+![](image/1.png)
 ###2.邮件发送，有很多例程
 ###3.定时使用的Timer
-![](leanote://file/getImage?fileId=58403b73bbb8c526cb000003)
+![](image/2.png)
 
 ###4.效果
-![](leanote://file/getImage?fileId=58403b0abbb8c526cb000001)
+![](image/3.png)
 
 ###5.代码
 ```
